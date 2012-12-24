@@ -1,0 +1,1 @@
+-sym full -msgstyle parseable -proc 51JMe -nosyspath -i "$(ProjDirPath)/Project_Headers" -g 
